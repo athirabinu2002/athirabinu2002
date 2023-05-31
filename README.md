@@ -1,5 +1,6 @@
 Hi 👋 My name is Athira
-=======================~I am Currently Pursuing Computer Science at College Of Engineering Chengannur* ✉️  You can contact me at [athirabinuab12@gmail.com](mailto:athirabinuab12@gmail.com)
+~I am Currently Pursuing Computer Science at College Of Engineering Chengannur* ✉️  
+You can contact me at [athirabinuab12@gmail.com](mailto:athirabinuab12@gmail.com)
 
 ### Skills
 
